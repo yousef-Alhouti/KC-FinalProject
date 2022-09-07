@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Bullet
+  - KILLBOX
+  - enemy
+  - border
+  - enemy2
+  - boos
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: healthbar
+    uniqueID: 2482548995
+    locked: 0
+  - name: background
+    uniqueID: 4435105
+    locked: 0
+  - name: platforms
+    uniqueID: 608707493
+    locked: 0
+  - name: Enemy
+    uniqueID: 1124809669
+    locked: 0
+  - name: player
+    uniqueID: 2856950181
+    locked: 0
+  - name: Bullet
+    uniqueID: 2308259629
+    locked: 0
